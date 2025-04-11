@@ -1,0 +1,27 @@
+RAW DATA: {"event_id": 2, "title": "CSE Symposium", "description": "symposium internal", "date": "2025-03-16", "institution_id": "11", "admin_id": "7"}
+RAW DATA: {"event_id": 2, "title": "CSE Symposium", "description": "symposium internal", "date": "2025-03-16", "institution_id": "11", "admin_id": "7"}
+ERROR: Missing required fields
+RAW DATA: {
+    "event_id": 1,
+    "title": "Updated Event Title",
+    "description": "Updated event description",
+    "date": "2025-03-05",
+    "institution_id": 11,
+    "admin_id": 7
+}
+
+
+
+
+RAW DATA: {
+    "event_id": 1,
+    "title": "Updated Event Title",
+    "description": "Updated event description",
+    "date": "2025-03-05",
+    "institution_id": 11,
+    "admin_id": 7
+}
+
+
+
+
