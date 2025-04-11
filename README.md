@@ -35,7 +35,7 @@ The KNN model recommends top 5 events for each user by analyzing:
 - Recency score (time-weighted interaction)
 
 The model is trained  with `train_model.py` and served through `app.py`.
-Python streamlit is used to build the frontend easily wuth less use of html/css for styling.
+Python streamlit is used to build the frontend easily with less use of html/css for styling.
 
 
 
